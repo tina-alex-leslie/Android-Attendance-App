@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Online Attendance System</string>
+    <string name="submit">Submit</string>
+    <array name="classes">
+        <item>Select Class</item>>
+        <item>CSE</item>
+        <item>IT</item>
+        <item>ECE</item>
+        <item>ME</item>
+        <item>CE</item>
+
+    </array>
+    <array name="periods">
+        <item>p1</item>
+        <item>p2</item>
+        <item>p3</item>
+
+    </array>
+</resources>
